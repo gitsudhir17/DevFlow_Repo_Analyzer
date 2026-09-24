@@ -1,4 +1,4 @@
-# DevFlow_Resume_Analyzer
+# DevFlow_Repo_Analyzer
 An AI-powered terminal user interface (TUI) for analyzing GitHub repositories. Generate comprehensive READMEs, .gitignore files, security reports, and more using Fireworks AI.
 Features
 README Generator — Automatically generate professional README.md files
