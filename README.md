@@ -15,7 +15,7 @@ API: Octokit (GitHub REST API)
 
 Installation
 # Clone the repository
-git clone https://github.com/deksdeveloper/github-repo-analyzer.git
+git clone https://github.com/gitsudhir17/DevFlow-repo-analyzer.git
 
 # Navigate to project directory
 cd github-repo-analyzer
